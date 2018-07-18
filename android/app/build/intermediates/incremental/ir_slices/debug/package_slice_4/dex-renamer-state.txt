@@ -1,0 +1,4 @@
+#Tue Jul 17 11:59:44 PDT 2018
+base.0=C\:\\Users\\xian\\Documents\\UCSD Coding Bootcamp\\Projects\\FOMO\\fomomap\\fomo-map\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex
